@@ -5,4 +5,7 @@ data for dose-resonse curves is often collected from 96 well plates and analysed
 Importing them directly from excel files into R, especially with a lot of files, might be very useful in that case. 
 
 Here's how!
-![dose_response_mtt_no_ind_points](dose_response_mtt_no_ind_points.png)
+
+Download the .zip file to all required files.
+
+![dose_response_mtt_no_ind_points2](https://user-images.githubusercontent.com/93380534/195309926-b16bafea-b5cf-4523-84ec-e5d4b8c7436b.png)
