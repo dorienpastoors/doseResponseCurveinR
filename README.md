@@ -6,6 +6,6 @@ Importing them directly from excel files into R, especially with a lot of files,
 
 Here's how!
 
-Download the .zip file to all required files.
+Download the .zip file to get all required files. The contents of the zip file are also added as folders so you can see what's inside already.
 
 ![dose_response_mtt_no_ind_points2](https://user-images.githubusercontent.com/93380534/195309926-b16bafea-b5cf-4523-84ec-e5d4b8c7436b.png)
